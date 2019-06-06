@@ -148,7 +148,7 @@
                wie Sie mir vorausgesagt haben — in <lb xml:id="I_6-29"/>andern aber ist’s anders.
                Für 18 Pfennige kan ich zu Mittage essen. <lb n="30" xml:id="I_6-30"/> Ferner: Beim
                Rektor Klodius hab’ ich die Inskripzion ganz geschenkt
-                        <persName> Christian August <name type="reg">Clodius</name>
+                        <persName ref="http://viaf.org/viaf/88691215"> Christian August <name type="reg">Clodius</name>
                         </persName>
                <lb xml:id="I_6-31"/>bekommen — und eben so die Kollegien. Für mein schönes Zimmer
                   <lb xml:id="I_6-32"/>brauch’ ich nur 16 rtl. zu zahlen — aber dafür mus ich zu
@@ -176,7 +176,7 @@
                aussen — so die <lb xml:id="I_7-12"/>Studenten — aber von innen, wie ich einen schon
                kennen gelernt habe, <lb xml:id="I_7-13"/>felt es an Kopf und Herz. — Der H. Magister
                Kirsch von Hof ist mit
-                        <persName> Georg Wilhelm <name type="reg">Kirsch</name>
+                        <persName ref="http://viaf.org/viaf/3215324"> Georg Wilhelm <name type="reg">Kirsch</name>
                         </persName>
 
                         <placeName>Hof im Vogtland</placeName>
@@ -188,7 +188,7 @@
                <lb n="15" xml:id="I_7-15"/>hat mir viel geholfen. Er hat mich bei etlichen auf’s
                beste rekomman<lb xml:id="I_7-16" rendition="#hyphen"/>dirt — beim Seger, und bei
                Bel. Er hat mir auch ein recht gutes
-                        <persName> Karl Andreas <name type="reg">Bel</name>
+                        <persName ref="http://viaf.org/viaf/66805355"> Karl Andreas <name type="reg">Bel</name>
                         </persName>
 
                         <persName ref="http://viaf.org/viaf/39726927"> Johann Gottlieb <name type="reg">Seger</name>
@@ -198,7 +198,7 @@
                vorzeigen, <lb xml:id="I_7-18"/>um alle Kollegien geschenkt zu bekommen: besonders
                viel hat mir <lb xml:id="I_7-19"/>dieses Zeugnis bei Prof. Platner geholfen, der die
                   Ph<metamark>[</metamark>ilosophie<metamark>]</metamark> ser
-                        <persName> Ernst <name type="reg">Platner</name>
+                        <persName ref="http://viaf.org/viaf/52482037"> Ernst <name type="reg">Platner</name>
                         </persName>
                <lb n="20" xml:id="I_7-20"/>liebt. — Dies sind lauter unbedeutende Dinge: aber ich
                habe iezt <lb xml:id="I_7-21"/>nichts anders zu schreiben, und wenn ich der
@@ -227,6 +227,9 @@
                </salute>
             </closer>
             <lb xml:id="I_7-32"/>
+
+            <figure><graphic url="Leipzig.jpg"></graphic></figure>
+
             <postscript>
                <p>Ich war neulich, da <metamark>[</metamark>ich<metamark>]</metamark> mich von al
                   meinen Freunden in Schwar

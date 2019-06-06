@@ -6,22 +6,21 @@
 tei-teiHeader {
   display: none;
 }
-tei-head {
+tei-head{
   color: red;
   text-align: center;
   border: 1px solid blue;
-
 }
-div{
+tei-div{
   color: black;
   text-align: left;
 }
-dateline{
-  color: blue;
-}
 tei-dateline{
-  color: blue;
+  color: gray;
   text-align: center;
+}
+tei-p tei-hi{
+  color: red;
 }
 tei-postscript:before
 {content:"Postscript"}
